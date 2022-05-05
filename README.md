@@ -1,4 +1,4 @@
-# azdc-training.github.io
+# azdc-training.github.io V2
 
 Landing page for azdc-training organization - have fun! 🚀
 
